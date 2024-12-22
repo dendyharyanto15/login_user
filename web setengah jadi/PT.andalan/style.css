@@ -1,0 +1,30 @@
+.container{
+    justify-content: center;
+
+}
+
+.wrapper {
+    display: flex;
+    justify-content: center;
+}
+
+.jumbotron {
+    padding-top: 6rem;
+    background-color:#e2edff;
+
+}
+#body {
+    background-color:#e2edff;
+}
+
+#about{
+    background-color:#e2edff;
+}
+
+#projects {
+    background-color:#e2edff;
+}
+
+#contact {
+    background-color:#e2edff;
+}
